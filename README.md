@@ -1,7 +1,7 @@
 # NBA Statistic Analysis Project
 
 ## Overview
-This project is a comprehensive NBA player analysis and ranking system that uses machine learning algorithms to predict player rankings based on various statistical metrics. The system analyzes player performance data from multiple NBA seasons and provides tools for player evaluation, ranking predictions, and trade analysis.
+This project is a comprehensive NBA player analysis and ranking system that uses machine learning algorithms to predict player rankings based on various statistical metrics. The system analyzes player performance data from multiple NBA seasons and provides tools for player evaluation, ranking predictions, and trade analysis.In pdf CSCI 184 Final Project Report have an overview process of the entire project.
 
 ## Features
 
