@@ -1,0 +1,628 @@
+Unique_Rank,NAME,Label
+1,Joel Embiid,Superstar
+1,Nikola Jokic,Superstar
+1,Trae Young,Superstar
+1,Jalen Brunson,Superstar
+1,Stephen Curry,Superstar
+1,Jayson Tatum,Superstar
+1,De'Aaron Fox,Superstar
+1,Anthony Edwards,Superstar
+1,Donovan Mitchell,Superstar
+1,Kevin Durant,Superstar
+1,Giannis Antetokounmpo,Superstar
+1,Shai Gilgeous-Alexander,Superstar
+1,Luka Doncic,Superstar
+1,Devin Booker,Superstar
+15,Paolo Banchero,Starter
+15,Anfernee Simons,Starter
+15,Cade Cunningham,Starter
+15,Kyle Kuzma,Starter
+15,Paul George,Starter
+15,Pascal Siakam,Starter
+15,Karl-Anthony Towns,Starter
+15,Zion Williamson,Starter
+15,Jaylen Brown,Starter
+15,Jaren Jackson Jr.,Starter
+15,DeMar DeRozan,Starter
+15,LaMelo Ball,Starter
+15,Terry Rozier,Starter
+15,Tyrese Maxey,Starter
+15,Lauri Markkanen,Starter
+15,Kyrie Irving,Starter
+15,Ja Morant,Starter
+15,Anthony Davis,Starter
+15,LeBron James,Starter
+15,Desmond Bane,Starter
+15,Julius Randle,Starter
+15,Kawhi Leonard,Starter
+15,Damian Lillard,Starter
+38,RJ Barrett,Starter
+38,Bojan Bogdanovic,Starter
+38,Kristaps Porzingis,Starter
+38,Pascal Siakam,Starter
+38,Victor Wembanyama,Starter
+38,Tyrese Haliburton,Starter
+38,Tyler Herro,Starter
+38,Mikal Bridges,Starter
+38,Brandon Ingram,Starter
+38,Alperen Sengun,Starter
+38,Jamal Murray,Starter
+38,Cam Thomas,Starter
+38,Miles Bridges,Starter
+38,Jimmy Butler,Starter
+38,Dejounte Murray,Starter
+38,Jerami Grant,Starter
+54,Jordan Clarkson,Role Player
+54,James Harden,Role Player
+54,Immanuel Quickley,Role Player
+54,D'Angelo Russell,Role Player
+54,Nikola Vucevic,Role Player
+54,RJ Barrett,Role Player
+54,Collin Sexton,Role Player
+54,Jalen Green,Role Player
+54,CJ McCollum,Role Player
+54,Bradley Beal,Role Player
+54,Jalen Williams,Role Player
+54,Devin Vassell,Role Player
+54,Zach LaVine,Role Player
+54,Coby White,Role Player
+54,Scottie Barnes,Role Player
+54,Bam Adebayo,Role Player
+54,Franz Wagner,Role Player
+54,Domantas Sabonis,Role Player
+54,Darius Garland,Role Player
+73,Tim Hardaway Jr.,Role Player
+73,Austin Reaves,Role Player
+73,Malik Monk,Role Player
+73,Shaedon Sharpe,Role Player
+73,Jonathan Kuminga,Role Player
+73,Keldon Johnson,Role Player
+73,Jordan Poole,Role Player
+73,Jarrett Allen,Role Player
+73,Chet Holmgren,Role Player
+73,Michael Porter Jr.,Role Player
+73,Fred VanVleet,Role Player
+73,Bogdan Bogdanovic,Role Player
+73,Brandon Miller,Role Player
+73,Myles Turner,Role Player
+73,Tobias Harris,Role Player
+73,Klay Thompson,Role Player
+89,Kelly Oubre Jr.,Role Player
+89,Keegan Murray,Role Player
+89,John Collins,Role Player
+89,Dennis Schroder,Role Player
+89,Buddy Hield,Role Player
+89,Marcus Smart,Role Player
+89,Bennedict Mathurin,Role Player
+89,Terry Rozier,Role Player
+89,Donte DiVincenzo,Role Player
+89,Gordon Hayward,Role Player
+89,Khris Middleton,Role Player
+89,Deandre Ayton,Role Player
+89,Immanuel Quickley,Role Player
+89,Malcolm Brogdon,Role Player
+89,Evan Mobley,Role Player
+89,OG Anunoby,Role Player
+89,Jaden Ivey,Role Player
+89,Jalen Johnson,Role Player
+89,Simone Fontecchio,Role Player
+89,OG Anunoby,Role Player
+89,Derrick White,Role Player
+89,De'Andre Hunter,Role Player
+111,P.J. Washington,Role Player
+111,Jonas Valanciunas,Role Player
+111,Jabari Smith Jr.,Role Player
+111,Grant Williams,Role Player
+111,Duncan Robinson,Role Player
+111,Dalano Banton,Role Player
+111,Bobby Portis,Role Player
+111,Saddiq Bey,Role Player
+111,Marvin Bagley III,Role Player
+111,Dennis Schroder,Role Player
+111,Jalen Duren,Role Player
+111,Deni Avdija,Role Player
+111,Cameron Johnson,Role Player
+111,Norman Powell,Role Player
+111,Caris LeVert,Role Player
+111,Aaron Gordon,Role Player
+111,Trey Murphy III,Role Player
+111,Rudy Gobert,Role Player
+129,Brook Lopez,Role Player
+129,Gary Trent Jr.,Role Player
+129,Nic Claxton,Role Player
+129,Aaron Nesmith,Role Player
+129,Bruce Brown,Role Player
+129,Max Strus,Role Player
+129,Jalen Suggs,Role Player
+129,Harrison Barnes,Role Player
+129,Cam Whitmore,Role Player
+129,Bojan Bogdanovic,Role Player
+129,Corey Kispert,Role Player
+129,Keyonte George,Role Player
+129,Andrew Wiggins,Role Player
+129,Spencer Dinwiddie,Role Player
+129,Alec Burks,Role Player
+129,Mark Williams,Role Player
+129,Naz Reid,Role Player
+129,Jaime Jaquez Jr.,Role Player
+129,Scoot Henderson,Role Player
+129,Dillon Brooks,Role Player
+129,Jrue Holiday,Role Player
+129,Grayson Allen,Role Player
+129,Rui Hachimura,Role Player
+152,Kelly Olynyk,Bench
+152,Zach Collins,Bench
+152,Herbert Jones,Bench
+152,Lamar Stevens,Bench
+152,Clint Capela,Bench
+152,Isaiah Stewart,Bench
+152,Lonnie Walker IV,Bench
+152,Russell Westbrook,Bench
+152,Jakob Poeltl,Bench
+152,P.J. Washington,Bench
+152,Moritz Wagner,Bench
+152,Malik Beasley,Bench
+152,Eric Gordon,Bench
+152,De'Anthony Melton,Bench
+152,Tyus Jones,Bench
+152,Buddy Hield,Bench
+152,GG Jackson,Bench
+152,Cole Anthony,Bench
+152,Josh Giddey,Bench
+152,Ivica Zubac,Bench
+152,Wendell Carter Jr.,Bench
+152,Jeremy Sochan,Bench
+152,Tre Mann,Bench
+152,Jusuf Nurkic,Bench
+176,Vasilije Micic,Bench
+176,Cameron Payne,Bench
+176,Obi Toppin,Bench
+176,Caleb Martin,Bench
+176,Scotty Pippen Jr.,Bench
+176,Santi Aldama,Bench
+176,Kevin Huerter,Bench
+176,Mike Conley,Bench
+176,Daniel Gafford,Bench
+176,Ayo Dosunmu,Bench
+176,Luguentz Dort,Bench
+176,Daniel Gafford,Bench
+176,Luke Kennard,Bench
+189,Brandin Podziemski,Bench
+189,Isaac Okoro,Bench
+189,Talen Horton-Tucker,Bench
+189,Patty Mills,Bench
+189,Vince Williams Jr.,Bench
+189,Nick Richards,Bench
+189,Tari Eason,Bench
+189,Kentavious Caldwell-Pope,Bench
+189,Patrick Williams,Bench
+189,Jaden McDaniels,Bench
+189,Jalen Smith,Bench
+189,Josh Richardson,Bench
+189,Marvin Bagley III,Bench
+189,Onyeka Okongwu,Bench
+189,Reggie Jackson,Bench
+204,Tre Jones,Bench
+204,Davis Bertans,Bench
+204,Alex Caruso,Bench
+204,Duop Reath,Bench
+204,Chris Paul,Bench
+209,Dorian Finney-Smith,Bench
+209,Derrick Jones Jr.,Bench
+209,Malaki Branham,Bench
+209,Seth Curry,Bench
+209,Dereck Lively II,Bench
+209,Georges Niang,Bench
+209,Bruce Brown,Bench
+209,Simone Fontecchio,Bench
+209,Ausar Thompson,Bench
+209,Andrew Nembhard,Bench
+209,T.J. McConnell,Bench
+209,Draymond Green,Bench
+209,Kevin Love,Bench
+209,Jordan Hawkins,Bench
+209,Josh Hart,Bench
+209,Taurean Prince,Bench
+209,Precious Achiuwa,Bench
+226,Sam Hauser,Bench
+226,Moses Moody,Bench
+226,Isaiah Joe,Bench
+226,Grant Williams,Bench
+226,Kelly Olynyk,Bench
+226,Ziaire Williams,Bench
+226,Terance Mann,Bench
+226,Markelle Fultz,Bench
+226,Andre Drummond,Bench
+226,Bilal Coulibaly,Bench
+226,Walker Kessler,Bench
+226,Dante Exum,Bench
+226,David Roddy,Bench
+226,Dario Saric,Bench
+226,Jabari Walker,Bench
+226,Josh Green,Bench
+226,Royce O'Neale,Bench
+226,Danilo Gallinari,Bench
+226,Kyle Lowry,Bench
+245,DeJon Jarreau,Bench
+245,Cody Martin,Bench
+245,Jordan Goodwin,Bench
+245,Jake LaRavia,Bench
+245,Matt Ryan,Bench
+245,Sam Merrill,Bench
+245,Precious Achiuwa,Bench
+245,Kyle Lowry,Bench
+245,Jaden Hardy,Bench
+245,Amen Thompson,Bench
+245,Al Horford,Bench
+245,Payton Pritchard,Bench
+245,Derrick Rose,Bench
+245,Nickeil Alexander-Walker,Bench
+259,Alec Burks,Bench
+259,Day'Ron Sharpe,Bench
+259,Evan Fournier,Bench
+259,Trey Lyles,Bench
+259,Gary Harris,Bench
+259,Trey Jemison,Bench
+259,Landry Shamet,Bench
+259,Kevin Knox II,Bench
+259,Toumani Camara,Bench
+259,Naji Marshall,Bench
+259,Quentin Grimes,Bench
+259,Marcus Sasser,Bench
+259,Royce O'Neale,Bench
+259,Paul Reed,Bench
+273,Cedi Osman,Bench
+273,Marcus Morris Sr.,Bench
+273,Shake Milton,Bench
+273,Gradey Dick,Bench
+273,Isaiah Hartenstein,Bench
+273,Dennis Smith Jr.,Bench
+273,Cason Wallace,Bench
+273,Peyton Watson,Bench
+273,Robert Williams III,Bench
+273,Killian Hayes,Bench
+273,Christian Wood,Bench
+273,Trayce Jackson-Davis,Bench
+273,Jose Alvarado,Bench
+273,Keon Johnson,Bench
+273,Isaiah Jackson,Bench
+273,Danilo Gallinari,Bench
+273,Christian Braun,Bench
+290,Chris Boucher,Bench
+290,Daniel Theis,Bench
+290,Aaron Holiday,Bench
+290,Miles McBride,Bench
+294,Ben Simmons,Bench
+294,Richaun Holmes,Bench
+294,Ochai Agbaji,Bench
+294,Xavier Tillman,Bench
+294,Doug McDermott,Bench
+294,Mason Plumlee,Bench
+294,Jae Crowder,Bench
+294,Jeff Green,Bench
+294,Nick Smith Jr.,Bench
+294,Amir Coffey,Bench
+294,Nikola Jovic,Bench
+294,Julian Champagnie,Bench
+294,Bones Hyland,Bench
+294,Cam Reddish,Bench
+294,Mitchell Robinson,Bench
+294,Cameron Payne,Bench
+294,Craig Porter,Bench
+294,Skylar Mays,Bench
+294,James Wiseman,Bench
+294,Jonathan Isaac,Bench
+294,Aaron Wiggins,Bench
+294,Kyle Anderson,Bench
+294,Patrick Beverley,Bench
+317,Matisse Thybulle,Bench
+317,Haywood Highsmith,Bench
+317,Sasha Vezenkov,Bench
+317,Jordan Nwora,Bench
+317,Ricky Council IV,Bench
+317,Trendon Watford,Bench
+317,Jaylen Nowell,Bench
+317,Torrey Craig,Bench
+317,Pat Connaughton,Bench
+317,Taylor Hendricks,Bench
+327,Onuralp Bitim,Bench
+327,Julian Strawther,Bench
+327,Bryce McGowens,Bench
+327,Jordan Nwora,Bench
+327,Jarred Vanderbilt,Bench
+327,Luke Kornet,Bench
+327,Bismack Biyombo,Bench
+327,Monte Morris,Bench
+327,Jamal Cain,Bench
+327,Quentin Grimes,Bench
+327,Patrick Beverley,Bench
+327,Malachi Flynn,Bench
+327,Dean Wade,Bench
+327,Ochai Agbaji,Bench
+327,Larry Nance Jr.,Bench
+327,Goga Bitadze,Bench
+327,Dyson Daniels,Bench
+327,Dexter Dennis,Bench
+327,Gary Payton II,Bench
+327,Kris Dunn,Bench
+327,Gabe Vincent,Bench
+327,Drew Eubanks,Bench
+327,Bol Bol,Bench
+327,Nicolas Batum,Bench
+351,Josh Okogie,Bench
+351,T.J. Warren,Bench
+351,Xavier Tillman,Bench
+351,Bruno Fernando,Bench
+351,Spencer Dinwiddie,Bench
+351,Brice Sensabaugh,Bench
+351,Anthony Black,Bench
+351,Jevon Carter,Bench
+351,Neemias Queta,Bench
+351,Delon Wright,Bench
+351,Jordan Goodwin,Bench
+351,Stanley Umude,Bench
+351,Isaiah Livers,Bench
+351,Kenyon Martin Jr.,Bench
+351,Chimezie Metu,Bench
+351,Thaddeus Young,Bench
+351,Wenyen Gabriel,Bench
+368,Aleksej Pokusevski,Bench
+368,Monte Morris,Bench
+368,Jontay Porter,Bench
+368,Caleb Houstan,Bench
+368,Kris Murray,Bench
+368,Keita Bates-Diop,Bench
+368,Joe Ingles,Bench
+368,Robert Covington,Bench
+368,Jalen Wilson,Bench
+368,Maxi Kleber,Bench
+368,Kevon Looney,Bench
+368,Jacob Gilyard,Bench
+368,Lester Quinones,Bench
+368,Max Christie,Bench
+368,Shake Milton,Bench
+368,Dominick Barlow,Bench
+384,Eugene Omoruyi,Bench
+384,Blake Wesley,Bench
+384,DeAndre Jordan,Bench
+384,Ryan Rollins,Bench
+384,Kenrich Williams,Bench
+384,Chris Duarte,Bench
+384,Jae'Sean Tate,Bench
+384,Delon Wright,Bench
+384,Theo Maledon,Bench
+384,Troy Brown Jr.,Bench
+384,Armoni Brooks,Bench
+384,Danuel House Jr.,Bench
+384,AJ Green,Bench
+384,MarJon Beauchamp,Bench
+384,Dru Smith,Bench
+384,Jared Butler,Bench
+384,Seth Curry,Bench
+384,Davion Mitchell,Bench
+384,JaVale McGee,Bench
+403,Jaxson Hayes,Bench
+403,Nassir Little,Bench
+403,Tristan Thompson,Bench
+403,Justin Holiday,Bench
+403,Izaiah Brockington,Bench
+403,Tre Mann,Bench
+403,Jaylin Williams,Bench
+403,Terquavion Smith,Bench
+403,Mo Bamba,Bench
+403,Brandon Boston Jr.,Bench
+403,Ashton Hagans,Bench
+403,Mamadi Diakite,Bench
+403,Gordon Hayward,Bench
+403,Matt Hurt,Bench
+403,Ben Sheppard,Bench
+403,Ousmane Dieng,Bench
+403,Jaden Springer,Bench
+403,John Konchar,Bench
+403,Thomas Bryant,Bench
+403,Mike Muscala,Bench
+403,Evan Fournier,Bench
+403,Jeff Dowtin Jr.,Bench
+425,Gui Santos,Bench
+425,Jeremiah Robinson-Earl,Bench
+425,Mike Muscala,Bench
+425,Garrison Mathews,Bench
+425,Richaun Holmes,Bench
+425,Harry Giles III,Bench
+425,Troy Brown Jr.,Bench
+425,Tosan Evbuomwan,Bench
+425,Keon Ellis,Bench
+425,Yuta Watanabe,Bench
+425,James Bouknight,Bench
+425,Dwight Powell,Bench
+425,Jarace Walker,Bench
+425,Kobe Bufkin,Bench
+425,A.J. Lawson,Bench
+425,Justin Champagnie,Bench
+425,Oshae Brissett,Bench
+425,Javon Freeman-Liberty,Bench
+443,Thaddeus Young,Bench
+443,Noah Clowney,Bench
+443,Jalen McDaniels,Bench
+443,Robert Covington,Bench
+443,Trevelin Queen,Bench
+443,Omer Yurtseven,Bench
+443,Luka Samanic,Bench
+443,Devonte' Graham,Bench
+443,Doug McDermott,Bench
+443,Drew Peterson,Bench
+443,Saben Lee,Bench
+443,Ish Smith,Bench
+443,Malachi Flynn,Bench
+443,Collin Gillespie,Bench
+443,Oscar Tshiebwe,Bench
+443,Orlando Robinson,Bench
+443,KJ Martin,Bench
+443,Charles Bassey,Bench
+443,Vasilije Micic,Bench
+443,Zeke Nnaji,Bench
+463,Colin Castleton,Bench
+463,Micah Potter,Bench
+463,Adama Sanogo,Bench
+463,Alex Len,Bench
+463,Otto Porter Jr.,Bench
+463,Boban Marjanovic,Bench
+463,Moussa Diabate,Bench
+463,Chuma Okeke,Bench
+463,Yuta Watanabe,Bench
+463,Furkan Korkmaz,Bench
+463,Udoka Azubuike,Bench
+463,Tosan Evbuomwan,Bench
+463,Greg Brown III,Bench
+463,Jared Rhoden,Bench
+463,Olivier-Maxence Prosper,Bench
+463,Kenneth Lofton Jr.,Bench
+463,Svi Mykhailiuk,Bench
+463,JT Thor,Bench
+463,Patty Mills,Bench
+463,Markieff Morris,Bench
+463,Davis Bertans,Bench
+463,Kira Lewis Jr.,Bench
+463,Ish Wainright,Bench
+463,Patrick Baldwin,Bench
+463,Jock Landale,Bench
+463,Lamar Stevens,Bench
+463,Jordan McLaughlin,Bench
+463,Lindy Waters III,Bench
+463,Luka Garza,Bench
+463,Nate Williams,Bench
+463,Rayan Rupert,Bench
+463,D.J. Carton,Bench
+463,Nicolas Batum,Bench
+463,Nate Hinton,Bench
+497,Cole Swider,Bench
+497,Emoni Bates,Bench
+497,Julian Phillips,Bench
+497,Leaky Black,Bench
+497,Damian Jones,Bench
+497,Malachi Flynn,Bench
+497,Colby Jones,Bench
+497,AJ Griffin,Bench
+497,Keita Bates-Diop,Bench
+497,Dereon Seabron,Bench
+497,Johnny Davis,Bench
+497,Dalano Banton,Bench
+497,Jericho Sims,Bench
+497,Johnny Juzang,Bench
+497,Cory Joseph,Bench
+497,Joe Harris,Bench
+497,Sandro Mamukelashvili,Bench
+497,Olivier Sarr,Bench
+497,Moses Brown,Bench
+497,Andre Jackson Jr.,Bench
+497,Danilo Gallinari,Bench
+497,Wesley Matthews,Bench
+497,Reggie Bullock Jr.,Bench
+497,Dalen Terry,Bench
+521,Amari Bailey,Bench
+521,Daishen Nix,Bench
+521,Jett Howard,Bench
+521,Skylar Mays,Bench
+521,Jamaree Bouyea,Bench
+521,Kobe Brown,Bench
+521,Jalen Hood-Schifino,Bench
+521,Jalen Pickett,Bench
+521,Ibou Badji,Bench
+521,Terry Taylor,Bench
+521,Jermaine Samuels Jr.,Bench
+521,Jordan Miller,Bench
+521,Seth Lundy,Bench
+521,Mike Muscala,Bench
+521,Leonard Miller,Bench
+521,P.J. Tucker,Bench
+521,Cody Zeller,Bench
+521,Anthony Gill,Bench
+521,Lindell Wigginton,Bench
+521,Ty Jerome,Bench
+521,Trent Forrest,Bench
+521,Jordan Ford,Bench
+521,Brandon Williams,Bench
+521,Daniel Theis,Bench
+521,D'Moi Hodge,Bench
+521,Markquis Nowell,Bench
+521,Kevon Harris,Bench
+521,Taze Moore,Bench
+521,Jahmi'us Ramsey,Bench
+521,Isaiah Mobley,Bench
+551,Xavier Moon,Bench
+551,R.J. Hampton,Bench
+551,Kendall Brown,Bench
+551,Nathan Mensah,Bench
+551,Aleksej Pokusevski,Bench
+551,Chris Livingston,Bench
+551,Keyontae Johnson,Bench
+551,Robin Lopez,Bench
+551,Jerome Robinson,Bench
+551,Theo Maledon,Bench
+551,P.J. Tucker,Bench
+551,Dariq Whitehead,Bench
+551,Jacob Toppin,Bench
+551,Filip Petrusev,Bench
+551,Kessler Edwards,Bench
+551,Jay Huff,Bench
+551,Dylan Windler,Bench
+551,Jules Bernard,Bench
+551,David Roddy,Bench
+551,Garrett Temple,Bench
+551,Josh Minott,Bench
+551,Vit Krejci,Bench
+573,Jaden Springer,Bench
+573,Malcolm Cazalon,Bench
+573,Maxwell Lewis,Bench
+573,Danny Green,Bench
+573,Ryan Arcidiacono,Bench
+573,Kaiser Gates,Bench
+573,Marques Bolden,Bench
+573,Filip Petrusev,Bench
+573,Usman Garuba,Bench
+573,Javonte Smart,Bench
+573,Ron Harper Jr.,Bench
+573,Trey Jemison,Bench
+573,Mouhamed Gueye,Bench
+573,Dmytro Skapintsev,Bench
+573,Pete Nance,Bench
+573,Jordan Walsh,Bench
+573,Kira Lewis Jr.,Bench
+573,Jason Preston,Bench
+573,Alondes Williams,Bench
+573,Darius Bazley,Bench
+573,Adam Flagler,Bench
+573,Justin Jackson,Bench
+573,Pat Spencer,Bench
+573,Jalen Crutcher,Bench
+573,Isaiah Wong,Bench
+573,E.J. Liddell,Bench
+573,Hunter Tyson,Bench
+573,TyTy Washington Jr.,Bench
+573,Marques Bolden,Bench
+573,James Johnson,Bench
+573,Taj Gibson,Bench
+573,Dylan Windler,Bench
+573,Braxton Key,Bench
+573,Joshua Primo,Bench
+573,JD Davison,Bench
+573,Justin Minaya,Bench
+573,Sidy Cissoko,Bench
+573,Alex Fudge,Bench
+573,Kenneth Lofton Jr.,Bench
+573,Hamidou Diallo,Bench
+573,Frank Ntilikina,Bench
+573,Mouhamadou Gueye,Bench
+573,Mason Jones,Bench
+573,Shake Milton,Bench
+573,Thanasis Antetokounmpo,Bench
+573,Admiral Schofield,Bench
+573,DaQuan Jeffries,Bench
+573,Charlie Brown Jr.,Bench
+573,Bismack Biyombo,Bench
+573,Shaquille Harrison,Bench
+573,Jalen Slawson,Bench
+573,Kira Lewis Jr.,Bench
+573,Juan Toscano-Anderson,Bench
+573,Wendell Moore Jr.,Bench
+573,Harry Giles III,Bench
